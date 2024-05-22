@@ -1,0 +1,5 @@
+effect = "allow"
+principal = {
+  service = "ec2.amazonaws.com"
+}
+action = "sts:assumerole"
