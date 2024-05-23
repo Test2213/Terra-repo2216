@@ -1,4 +1,4 @@
-working json for lambda
+
 {
   "detail-type": ["Object Created", "Object Deleted"],
   "source": ["aws.s3"],
